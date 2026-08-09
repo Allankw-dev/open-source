@@ -384,3 +384,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 374. [Sitekiller](https://github.com/Sitekiller)
 375. [Fernando](https://github.com/Nando-suka)
 376. [Chinmay](https://github.com/Chinmay-23-cpu)
+377. [Ezequie1Sc](https://github.com/Ezequie1Sc)
